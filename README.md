@@ -9,3 +9,8 @@ Sistema de gestión de alimentos para ONG
 cd backend
 npm install
 npm start
+
+cd frontend
+npx create-react-app .
+npm install
+npm start
